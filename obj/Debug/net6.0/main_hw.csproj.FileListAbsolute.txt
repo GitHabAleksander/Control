@@ -1,0 +1,30 @@
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\bin\Debug\net6.0\main_hw.exe
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\bin\Debug\net6.0\main_hw.deps.json
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\bin\Debug\net6.0\main_hw.runtimeconfig.json
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\bin\Debug\net6.0\main_hw.dll
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\bin\Debug\net6.0\main_hw.pdb
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\main_hw.csproj.AssemblyReference.cache
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\main_hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\main_hw.AssemblyInfoInputs.cache
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\main_hw.AssemblyInfo.cs
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\main_hw.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\main_hw.dll
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\refint\main_hw.dll
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\main_hw.pdb
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\main_hw.genruntimeconfig.cache
+C:\Users\user\Documents\dotnet\Tasks\Attestat\in githab\obj\Debug\net6.0\ref\main_hw.dll
+C:\Users\user\Documents\c#\Attestat\bin\Debug\net6.0\main_hw.exe
+C:\Users\user\Documents\c#\Attestat\bin\Debug\net6.0\main_hw.deps.json
+C:\Users\user\Documents\c#\Attestat\bin\Debug\net6.0\main_hw.runtimeconfig.json
+C:\Users\user\Documents\c#\Attestat\bin\Debug\net6.0\main_hw.dll
+C:\Users\user\Documents\c#\Attestat\bin\Debug\net6.0\main_hw.pdb
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\main_hw.csproj.AssemblyReference.cache
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\main_hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\main_hw.AssemblyInfoInputs.cache
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\main_hw.AssemblyInfo.cs
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\main_hw.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\main_hw.dll
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\refint\main_hw.dll
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\main_hw.pdb
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\main_hw.genruntimeconfig.cache
+C:\Users\user\Documents\c#\Attestat\obj\Debug\net6.0\ref\main_hw.dll
